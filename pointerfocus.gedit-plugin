@@ -1,0 +1,11 @@
+[Gedit Plugin]
+Loader=python
+Module=pointerfocus
+IAge=2
+Name=Pointer Focus
+Description=Set the keyboard focus based on the pointer location.
+Authors=Derek Veit <dv8box-goo@yahoo.com>
+Copyright=Copyright © 2010 Derek Veit
+Website=http://code.google.com/p/gedit-pointer-focus
+Version=1.0.0
+
